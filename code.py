@@ -43,4 +43,5 @@ def result(userOption):
 
 if __name__ == "__main__":
     choices = ['Rock', 'paper', 'Scissor']
+    print("Hello..")
     userInput()
